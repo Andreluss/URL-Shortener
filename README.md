@@ -1,7 +1,7 @@
 # URL-Shortener
 Full-stack project coded with other 100 students duing the Software Engineering Course 2023/2024 @ University of Warsaw.  
   
-Repo URL (university gitlab server): https://gitlab.uw.edu.pl/io/urls
+Repo (university gitlab server): https://gitlab.uw.edu.pl/io/urls
 
 Contributions: 
 - found and fixed a registration bug in the api
